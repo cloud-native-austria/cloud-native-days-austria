@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   sodipodi:docname="organizer.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.5001964"
+     inkscape:cx="471.9382"
+     inkscape:cy="574.59143"
+     inkscape:window-width="3840"
+     inkscape:window-height="2054"
+     inkscape:window-x="2549"
+     inkscape:window-y="-5"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g9-4-8-5"
+       transform="matrix(1.0062182,0,0,1.006216,-617.3843,-417.74091)"
+       inkscape:label="IconRound01_colorFerrisWheel_blackA_whiteBG"
+       inkscape:export-filename="IconRound01_colorFerrisWheel_blackA_whiteBGpng"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         style="-inkscape-font-specification:'Plus Jakarta Sans Bold';fill:#000000;stroke-width:8.50841;stroke-linecap:round;stroke-opacity:0.497409"
+         d="m 492.44407,229.21567 16.8307,-48.78938 h 11.52608 l 16.8307,48.78938 h -9.69239 l -3.47092,-10.47826 h -18.86086 l -3.53641,10.47826 z m 15.71739,-18.33695 h 13.75271 l -8.12065,-24.29645 h 2.48859 z"
+         id="text1-0-9-1-8"
+         transform="matrix(0.99024632,0,0,0.99740922,173.12574,342.93217)"
+         aria-label="A"
+         inkscape:label="A" />
+      <g
+         id="g8"
+         inkscape:label="FerrisWheel">
+        <path
+           style="fill:#ffbc42;stroke-linecap:round;stroke-linejoin:round"
+           d="m 685.32001,415.65989 a 5.0005,5.0005 0 0 0 -7.17773,4.50195 l 0.0137,66.40039 a 5.0005,5.0005 0 0 0 8.08984,3.92969 l 52.28516,-41.10547 a 5.0005,5.0005 0 0 0 -0.91406,-8.43359 z m 2.82422,12.47266 37.91406,18.33984 -37.90429,29.79883 z"
+           id="path3-3-8-7-0" />
+        <path
+           style="fill:#ffbc42;stroke-linecap:round;stroke-linejoin:round"
+           d="m 683.404,415.1677 a 5.0005,5.0005 0 0 0 -2.45118,0.49219 l -52.29687,25.29297 a 5.0005,5.0005 0 0 0 -0.91406,8.43164 l 52.28515,41.10547 a 5.0005,5.0005 0 0 0 8.08985,-3.92969 l 0.0137,-66.39844 A 5.0005,5.0005 0 0 0 683.404,415.1677 Z m -5.27539,12.96485 -0.01,48.13671 -37.9043,-29.79882 z"
+           id="path6-0-4-2" />
+        <path
+           style="fill:#e30282;stroke-linecap:round;stroke-linejoin:round"
+           d="m 736.93134,440.89036 a 5.0005,5.0005 0 0 0 -4.7793,0.77734 l -52.17578,41.06836 a 5.0005,5.0005 0 0 0 1.91406,8.78711 l 64.63477,15.67383 a 5.0005,5.0005 0 0 0 6.0625,-5.93164 l -12.45898,-56.74024 a 5.0005,5.0005 0 0 0 -3.19727,-3.63476 z m -4.85938,13.5664 9.03125,41.13477 -46.85546,-11.36133 z"
+           id="path3-4-2-8" />
+        <path
+           style="fill:#e30282;stroke-linecap:round;stroke-linejoin:round"
+           d="m 629.3415,440.8884 a 5.0005,5.0005 0 0 0 -3.19727,3.63477 l -12.45898,56.74219 a 5.0005,5.0005 0 0 0 6.0625,5.93164 l 64.63476,-15.67383 a 5.0005,5.0005 0 0 0 1.91406,-8.78906 L 634.12079,441.6677 a 5.0005,5.0005 0 0 0 -4.77929,-0.7793 z m 4.85937,13.56836 37.82422,29.77344 -46.85547,11.36133 z"
+           id="path5-6-7-6" />
+        <path
+           style="fill:#531cb3;stroke-linecap:round;stroke-linejoin:round"
+           d="m 684.24775,481.79465 a 5.0005,5.0005 0 0 0 -5.72852,6.9336 l 27.60156,60.50976 a 5.0005,5.0005 0 0 0 8.40821,1.10352 l 36.92578,-44.84766 a 5.0005,5.0005 0 0 0 -2.67969,-8.03711 z m 7.64062,12.14454 46.7793,11.35351 -26.77149,32.51367 z"
+           id="path2-0-7-0" />
+        <path
+           style="fill:#531cb3;stroke-linecap:round;stroke-linejoin:round"
+           d="m 682.02509,481.7927 -64.52734,15.66406 a 5.0005,5.0005 0 0 0 -2.67969,8.03711 l 36.92383,44.84766 a 5.0005,5.0005 0 0 0 8.41015,-1.10352 l 27.60157,-60.51172 a 5.0005,5.0005 0 0 0 -5.72852,-6.93359 z m -7.64063,12.14649 -20.00781,43.86718 -26.77148,-32.51367 z"
+           id="path4-3-9-2" />
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:24.1153px;line-height:1;font-family:INTER;-inkscape-font-specification:INTER;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.949423;stroke-linecap:round"
+       x="69.626907"
+       y="187.77818"
+       id="text1"
+       inkscape:export-filename="organizers_front_dark.png"
+       inkscape:export-xdpi="544.28571"
+       inkscape:export-ydpi="544.28571"><tspan
+         sodipodi:role="line"
+         id="tspan1"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:24.1153px;font-family:INTER;-inkscape-font-specification:'INTER Bold';fill:#000000;fill-opacity:1;stroke-width:0.949423"
+         x="69.626907"
+         y="187.77818">ORGANIZER</tspan></text>
+  </g>
+</svg>

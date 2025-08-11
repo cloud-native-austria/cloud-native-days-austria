@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="350mm"
+   height="450mm"
+   viewBox="0 0 350 450"
+   version="1.1"
+   id="svg1"
+   inkscape:export-filename="text_dark.png"
+   inkscape:export-xdpi="217.71429"
+   inkscape:export-ydpi="217.71429"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   sodipodi:docname="staycloudnative.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.7500982"
+     inkscape:cx="498.60138"
+     inkscape:cy="915.88008"
+     inkscape:window-width="3840"
+     inkscape:window-height="2054"
+     inkscape:window-x="2549"
+     inkscape:window-y="-5"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:88.1944px;line-height:1;font-family:'Plus Jakarta Sans';-inkscape-font-specification:'Plus Jakarta Sans Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke-width:1;stroke-linecap:round"
+       x="174.51337"
+       y="66.763191"
+       id="text1"><tspan
+         sodipodi:role="line"
+         id="tspan1"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:88.1944px;font-family:'Plus Jakarta Sans';-inkscape-font-specification:'Plus Jakarta Sans Ultra-Bold';text-align:center;text-anchor:middle;fill:#000000;stroke-width:1"
+         x="174.51337"
+         y="66.763191">STAY</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:88.1944px;font-family:'Plus Jakarta Sans';-inkscape-font-specification:'Plus Jakarta Sans Ultra-Bold';text-align:center;text-anchor:middle;fill:#000000;stroke-width:1"
+         x="174.51337"
+         y="154.95761"
+         id="tspan2">CLOUD</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:88.1944px;font-family:'Plus Jakarta Sans';-inkscape-font-specification:'Plus Jakarta Sans Ultra-Bold';text-align:center;text-anchor:middle;fill:#000000;stroke-width:1"
+         x="174.51337"
+         y="243.15205"
+         id="tspan3">NATIVE</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:88.1944px;font-family:'Plus Jakarta Sans';-inkscape-font-specification:'Plus Jakarta Sans Ultra-Bold';text-align:center;text-anchor:middle;fill:#000000;stroke-width:1"
+         x="174.51337"
+         y="331.3465"
+         id="tspan4" /></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:20.8659px;line-height:1;font-family:'Plus Jakarta Sans';-inkscape-font-specification:'Plus Jakarta Sans Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke-width:1.0562;stroke-linecap:round"
+       x="175.0211"
+       y="273.83945"
+       id="text5"
+       inkscape:export-filename="text5.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         style="font-size:20.8659px;text-align:center;text-anchor:middle;stroke-width:1.0562;fill:#000000"
+         x="175.02109"
+         y="273.83945"
+         id="tspan6">Cloud Native Days Austria 2025</tspan></text>
+  </g>
+</svg>
